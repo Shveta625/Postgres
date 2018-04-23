@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;testing&apos; to &apos;com.scala&apos;&#x0A;- Original project: &apos;ScalaPostgres&apos;&#x0A;- Original element: &apos;ScalaPostgres/src/testing&apos;&#x0A;- Renamed element: &apos;ScalaPostgres/src/com.scala&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;testing&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;testing" name="com.scala" qualified="false" references="true" stamp="1524468052439" textual="false" version="1.0"/>
+</session>

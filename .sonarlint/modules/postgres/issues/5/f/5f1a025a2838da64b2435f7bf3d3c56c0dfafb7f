@@ -1,0 +1,32 @@
+
+Rsquid:S1170"!Make this final field static too.(¸ë‚éýÿÿÿÿHRMINORZ
+CODE_SMELL
+i
+squid:S106H"9Replace this use of System.out or System.err by a logger.(’éá€ÿÿÿÿÿHRMAJORZ
+CODE_SMELL
+{squid:S20953"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ð¹¡ÌüÿÿÿÿHRBLOCKERZBUG
+i
+squid:S106!"9Replace this use of System.out or System.err by a logger.(©þêÜúÿÿÿÿHRMAJORZ
+CODE_SMELL
+msquid:S2095+"GUse try-with-resources or close this "Statement" in a "finally" clause.(á‚ŽyHRBLOCKERZBUG
+i
+squid:S106O"9Replace this use of System.out or System.err by a logger.(’éá€ÿÿÿÿÿHRMAJORZ
+CODE_SMELL
+{squid:S20954"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(À½Ä§ûÿÿÿÿHRBLOCKERZBUG
+‹squid:S2068"U'password' detected in this expression, review this potentially hardcoded credential.(¸ë‚éýÿÿÿÿHRBLOCKERZVULNERABILITY
+i
+squid:S106"9Replace this use of System.out or System.err by a logger.(¨µÃ‘øÿÿÿÿHRMAJORZ
+CODE_SMELL
+i
+squid:S106I"9Replace this use of System.out or System.err by a logger.(½“ó¯úÿÿÿÿHRMAJORZ
+CODE_SMELL
+nsquid:S2095M"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(¼œÈûHRBLOCKERZBUG
+Wsquid:S1148U"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿHRMINORZVULNERABILITY
+nsquid:S2095F"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(àˆÌ²HRBLOCKERZBUG
+Msquid:S1170"!Make this final field static too.(óþâ¬HRMINORZ
+CODE_SMELL
+Rsquid:S1170"!Make this final field static too.(ºÄÌÚûÿÿÿÿHRMINORZ
+CODE_SMELL
+d
+squid:S106P"9Replace this use of System.out or System.err by a logger.(æœ–°HRMAJORZ
+CODE_SMELL
