@@ -14,7 +14,6 @@ INDEX VERSION 1.130+/home/shvetap/Lumity workspace/.metadata/.plugins/org.eclips
 3883508318.index
 1655735838.index
 1628687906.index
-3406365120.index
 2253745042.index
 3485262699.index
 502732891.index

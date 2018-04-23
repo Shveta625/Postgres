@@ -42,3 +42,11 @@
 2018-04-23 12:51:35,437  WARN [Worker-4] - ScalaProject - Project ScalaPostgres runs on platform default installation.
 2018-04-23 12:56:48,852  WARN [main] - ScalaProject - Project ScalaPostgres has platform default sourceLevel.
 2018-04-23 12:56:48,854  WARN [main] - ScalaProject - Project ScalaPostgres runs on platform default installation.
+2018-04-23 13:15:36,509  WARN [Worker-3] - ScalaProject - Project ScalaPostgres has platform default sourceLevel.
+2018-04-23 13:15:36,510  WARN [Worker-3] - ScalaProject - Project ScalaPostgres runs on platform default installation.
+2018-04-23 14:51:41,706  WARN [Worker-63] - ScalaProject - Project ScalaPostgres has platform default sourceLevel.
+2018-04-23 14:51:41,706  WARN [Worker-63] - ScalaProject - Project ScalaPostgres runs on platform default installation.
+2018-04-23 14:51:41,765  WARN [Worker-63] - ScalaProject - Project ScalaPostgres has platform default sourceLevel.
+2018-04-23 14:51:41,765  WARN [Worker-63] - ScalaProject - Project ScalaPostgres runs on platform default installation.
+2018-04-23 14:51:42,109  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project ScalaPostgres has platform default sourceLevel.
+2018-04-23 14:51:42,110  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project ScalaPostgres runs on platform default installation.

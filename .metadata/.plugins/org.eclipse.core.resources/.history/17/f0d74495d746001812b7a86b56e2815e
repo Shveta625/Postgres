@@ -9,12 +9,21 @@ import java.sql.Statement;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ *
+ * @author postgresqltutorial.com
+ */
 public class PostgresJDBC {
 
 	private final String url = "jdbc:postgresql://localhost/test";
 	private final String user = "postgres";
 	private final String password = "passw0rd";
 
+	/**
+	 * Connect to the PostgreSQL database
+	 *
+	 * @return a Connection object
+	 */
 	public Connection connect() {
 		Connection conn = null;
 		try {
